@@ -195,4 +195,4 @@ for r in results:
 
 ## 🙋 Author
 
-Built by **Singaram Hemalatha** — Coding Blocks Internship, Project 2.
+Built by **Riddhi Sharma** — Coding Blocks Internship, Project 2.
